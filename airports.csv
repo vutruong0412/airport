@@ -1,4 +1,12 @@
 code,icao,name,latitude,longitude,elevation,url,time_zone,city_code,country,city,state,county,type
+TAS,,,,,,,,,,,,,
+JHB,,,,,,,,,,,,,
+DMK,,,,,,,,,,,,,
+UTH,,,,,,,,,,,,,
+MAQ,,,,,,,,,,,,,
+TFU,,,,,,,,,,,,,
+SNO,,,,,,,,,,,,,
+VNO,,,,,,,,,,,,,
 KHH,NTGA,Sân bay qu?c t? Cao Hùng,-17.3506654,-145.5111199,36,,Pacific/Tahiti,AAA,PF,,,,AP
 TPE,YARY,Sân bay qu?c t? ?ào Viên ?ài Loan,-26.6967835,141.049092,328,,Australia/Brisbane,AAB,AU,Tanbar,Queensland,Barcoo Shire,AP
 TSA,HEAR,Sân bay Tùng S?n ?ài B?c,31.0742836,33.82917152,85,,Africa/Cairo,AAC,EG,Arish,Muhafazat Shamal Sina',,AP
