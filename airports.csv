@@ -1,9 +1,11 @@
 code,icao,name,latitude,longitude,elevation,url,time_zone,city_code,country,city,state,county,type
+VTZ,,,,,,,,,,,,,
 TAS,,,,,,,,,,,,,
 JHB,,,,,,,,,,,,,
 DMK,,,,,,,,,,,,,
 UTH,,,,,,,,,,,,,
 MAQ,,,,,,,,,,,,,
+RGN,,,,,,,,,,,,,
 TFU,,,,,,,,,,,,,
 SNO,,,,,,,,,,,,,
 VNO,,,,,,,,,,,,,
