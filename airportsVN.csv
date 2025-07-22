@@ -1,0 +1,39 @@
+code,icao,name,latitude,longitude,elevation,url,time_zone,city_code,country,city,state,county,type
+BMV,VVBM,Phung-Duc Airport,12.666667,108.05,1519,,Asia/Ho_Chi_Minh,BMV,VN,Buon Ma Thuot,Dac Lak,,AP
+CAH,VVCM,Kamau ,9.1768916,105.1746674,39,,Asia/Ho_Chi_Minh,CAH,VN,Ca Mau,Ca Mau,,AP
+CSJ,,Cape St Jacques,10.033333,111,0,,Asia/Ho_Chi_Minh,CSJ,VN,Phu Quy,Binh Thuan,,AP
+CXR,VVCR,Cam Ranh International Airport,11.9968644,109.2172886,78,,Asia/Ho_Chi_Minh,NHA,VN,Cam Lam,Khanh Hoa,,AP
+DAD,VVDN,Da Nang International Airport,16.0425792,108.1971613,26,,Asia/Ho_Chi_Minh,DAD,VN,Thanh Khe,Da Nang,,AP
+DIN,VVDB,Dien Bien Airport,21.3949323,103.0070362,1519,,Asia/Ho_Chi_Minh,DIN,VN,Dien Bien Phu,Huyen Dien Bien,,AP
+DLI,VVDL,Lien Khuong Airport,11.75042785,108.3611709,3100,,Asia/Ho_Chi_Minh,DLI,VN,Duc Trong,Lam Dong,,AP
+HAN,VVNB,Noi Bai International Airport,21.2190339,105.804497,32,,Asia/Ho_Chi_Minh,HAN,VN,Soc Son,Ha Noi,,AP
+HBN,,Flamingo,12,106,229,,Asia/Ho_Chi_Minh,HBN,VN,Tan Bien,Tay Ninh,,AP
+HOO,,Nhon Co,12.009722,107.68806,1958,,Asia/Ho_Chi_Minh,HOO,VN,Gia Nghia,Dak Nong,,AP
+HPH,VVCI,Cat Bi International Airport,20.8173019,106.719465,16,,Asia/Ho_Chi_Minh,HPH,VN,Haiphong,Hai Phong,,AP
+HUI,VVPB,Phu Bai International Airport,16.39973765,107.705354,42,,Asia/Ho_Chi_Minh,HUI,VN,Phu Vang,Thua Thien-Hue,,AP
+KON,,Kontum,14.354167,108.021385,1804,,Asia/Ho_Chi_Minh,KON,VN,Kon Tum,Kon Tum,,AP
+NHA,VVNT,Nha Trang,12.249573,109.1929837,52,,Asia/Ho_Chi_Minh,NHA,VN,Nha Trang,Khanh Hoa,,AP
+PHA,VVPR,Phan Rang,11.633333,108.95,75,,Asia/Ho_Chi_Minh,PHA,VN,Phan Rang-Thap Cham,Ninh Thuan,,AP
+PHH,,Phan Thiet,10.9,108.066666,229,,Asia/Ho_Chi_Minh,PHH,VN,Phan Thiet,Binh Thuan,,AP
+PHU,,Phu Vinh,9.95,106.333336,42,,Asia/Ho_Chi_Minh,PHU,VN,Tra Vinh,Tra Vinh,,AP
+PQC,VVPQ,Phu Quoc Airport,10.223722,103.96324,26,,Asia/Ho_Chi_Minh,PQC,VN,Duong GJong,Kien Giang,,AP
+PXU,VVPK,Pleiku Airport,14.004424,108.0135476,2411,,Asia/Ho_Chi_Minh,PXU,VN,Pleiku,Gia Lai,,AP
+SGN,VVTS,Tan Son Nhat International Airport,10.81831885,106.6581217,36,http://www.tsnairport.hochiminhcity.gov.vn/,Asia/Ho_Chi_Minh,SGN,VN,Quan Phu Nhuan,Ho Chi Minh City,,AP
+SOA,,Soc Trang,9.616667,105.833336,39,,Asia/Ho_Chi_Minh,SOA,VN,Huynh Huu Nghia,Soc Trang,,AP
+SQH,VVNS,Na-San,21.215353,104.0348576,2040,,Asia/Ho_Chi_Minh,SQH,VN,Thi Tran Hat Lot,Son La,,AP
+TBB,VVTH,Tuy Hoa Airport,13.04798705,109.3367966,20,,Asia/Ho_Chi_Minh,TBB,VN,Tuy Hoa,Phu Yen,,AP
+THD,VVTX,Bai Thuong Airport,19.901667,105.467778,59,,Asia/Ho_Chi_Minh,THD,VN,Thi Tran Tho Xuan,Thanh Hoa,,AP
+TMK,,Tamky,15.566667,108.48333,0,,Asia/Ho_Chi_Minh,TMK,VN,Tam Ky,Quang Nam,,AP
+UIH,VVPC,Phu Cat Airport,13.766111,109.22639,80,https://vietnamairport.vn/phucatairport/,Asia/Ho_Chi_Minh,UIH,VN,Qui Nhon,Binh Dinh,,AP
+VCA,VVCT,Can Tho Airport,10.047222,105.76639,19,,Asia/Ho_Chi_Minh,VCA,VN,Can Tho,Can Tho,,AP
+VCL,VVCA,Chu Lai International Airport,15.4075042,108.7125535,32,,Asia/Ho_Chi_Minh,VCL,VN,Nui Thanh,Quang Nam,,AP
+VCS,VVCS,Con Dao,10.371389,106.63333,13,,Asia/Ho_Chi_Minh,VCS,VN,Vinh Binh,Tien Giang,,AP
+VDH,VVDH,Dong Hoi Airport,17.5126028,106.5933952,39,,Asia/Ho_Chi_Minh,VDH,VN,Kwang Binh,Quang Binh,,AP
+VDO,VVVD,Van Don,21.1177533,107.4168068,26,http://www.vandon-airport.com/,Asia/Ho_Chi_Minh,VDO,VN,Cam Pha Mines,Quang Ninh,,AP
+VII,VVVH,Vinh Airport,18.7,105.63333,42,,Asia/Ho_Chi_Minh,VII,VN,Hung Nguyen,Nghe An,,AP
+VKG,VVRG,Rach Gia Airport,10.083333,105.083336,32,,Asia/Ho_Chi_Minh,VKG,VN,Rach Gia,Kien Giang,,AP
+VSO,,Phuoclong,9.433333,105.46667,36,,Asia/Ho_Chi_Minh,VSO,VN,Thi Tran Phuoc Long,Bac Lieu,,AP
+VTG,VVVT,Vung Tau,10.37630815,107.0962258,39,,Asia/Ho_Chi_Minh,VTG,VN,Vung Tau,Ba Ria-Vung Tau,,AP
+XLO,,Long Xuyen,10.333333,105.46667,36,,Asia/Ho_Chi_Minh,XLO,VN,Lap Vo,Dong Thap,,AP
+XNG,,Quang Ngai,15.113611,108.77583,45,,Asia/Ho_Chi_Minh,XNG,VN,Quang Ngai,Quang Ngai,,AP
+XVL,,Vinh Long,10.25,105.95,27,,Asia/Ho_Chi_Minh,XVL,VN,Vinh Long,Vinh Long,,AP
